@@ -79,7 +79,7 @@ ophub_release_file="etc/ophub-release"
 fnnas_conf="etc/fnnas.conf"
 
 # Dependency files repository
-depends_repo="https://github.com/ophub/amlogic-s9xxx-armbian"
+depends_repo="https://github.com/zihelyu/amlogic-s9xxx-armbian"
 # U-Boot files repository
 uboot_repo="https://github.com/ophub/u-boot"
 # Firmware files repository
